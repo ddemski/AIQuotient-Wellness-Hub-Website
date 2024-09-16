@@ -6,7 +6,7 @@ This project is to design and create a seamless UX for the Wellness Hub website 
 the AI Quotient company.
 
 # Team Members:
-Domenic Demski
+Domenic Demski;
 Sunanda Tummala
 
 # Sponsor:
