@@ -1,16 +1,16 @@
-# AIQuotient-Wellness-Hub-Website
+# AIQuotient Wellness Hub Website
 
 This is the repository for the CSE 485/486 capstone for Arizona State University.
 
 This project is to design and create a seamless UX for the Wellness Hub website sponsored by
 the AI Quotient company.
 
-Team Members:
+# Team Members:
 Domenic Demski
 Sunanda Tummala
 
-Sponsor:
+# Sponsor:
 AI Quotient - Srikanth Hari
 
-Coordiantor:
+# Coordiantor:
 Dr. Steven Osburn
